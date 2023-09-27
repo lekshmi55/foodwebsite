@@ -1,0 +1,48 @@
+
+.copy{
+    background-color: rgb(216, 170, 114);
+}
+
+
+
+.one{
+    border: 2px black solid;
+    
+    width: 220px;
+    height: 27px;
+    margin-bottom: 10px;
+}
+.main{
+ position: absolute;
+ margin-bottom: 400px;
+}
+.koo{
+    display: flex;
+    justify-content: space-between;
+}
+.loo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.zoo{
+    display: flex;
+    justify-content: space-between;
+}
+.xoo{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    background-color: rgb(216, 170, 114);
+  
+}
+
+
+.fle{
+    margin-left: 200px;
+    margin-top: 10px;
+   
+}
+.on{margin-left: 430px;
+}
